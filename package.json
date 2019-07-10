@@ -34,7 +34,7 @@
     "prisma-binding": "^1.5.12",
     "prop-types": "^15.5.10",
     "react": "^16.2.0",
-    "react-apollo": "^2.0.4",
+    "react-apollo": "^2.1.7",
     "react-dom": "^16.2.0",
     "styled-components": "^3.1.6",
     "styled-jsx": "^2.2.6",
